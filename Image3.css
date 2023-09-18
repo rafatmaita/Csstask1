@@ -1,0 +1,61 @@
+h3{
+    text-decoration: underline;
+}
+
+hr{
+    width: 80%;
+}
+
+span{
+    color:yellow;
+    text-decoration: underline;
+}
+
+p{
+    color: blue;
+}
+
+.p2{
+    color: black;
+}
+
+.p3{
+    color: black;
+}
+
+.p4{
+    color:hotpink;
+    background-color: yellow;
+}
+
+.p5{
+    color:black;
+    padding-bottom: 1px;
+}
+
+#nonetype{
+    list-style-type: none;
+}
+
+.boldredunderlined{
+color: red;
+text-decoration: underline;
+font-weight:bold;
+}
+
+.bluenum{
+    color:blue;
+}
+
+.dark{
+    font-weight:bold;
+    color:blue;
+}
+
+.container{
+    width: 1000px;
+    height: 500px;
+    border: 1px;
+    background-color: bisque;
+    padding: 30px;
+}
